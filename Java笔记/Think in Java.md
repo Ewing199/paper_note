@@ -26,5 +26,6 @@ java使用new创建对象存活与作用域之外，java使用垃圾回收器监
 ```
 for(float x:f){}	f中的每个值都赋值给x
 ```
+2. label：标签，相当于goto回到都位置与continue，break一起使用
 
 
