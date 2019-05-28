@@ -29,7 +29,7 @@ for(float x:f){}	f中的每个值都赋值给x
 2. label：标签，相当于goto回到都位置与continue，break一起使用
 
 ## 第五章 初始化和清理
-
+1. 构造器表示初始化：
 
 
 
