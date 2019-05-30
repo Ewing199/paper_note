@@ -45,7 +45,7 @@ for(float x:f){}	f中的每个值都赋值给x
 ```
 static void printArray(Object... args)
 ```
-14. enum：toString()显示实例方法、ordinal()声明常量的
+14. enum：toString()显示实例方法、ordinal()声明常量的顺序、static value()设定值
 
 
 
