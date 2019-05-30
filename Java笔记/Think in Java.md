@@ -42,6 +42,10 @@ for(float x:f){}	f中的每个值都赋值给x
 11. java类中变量的初始化会发生在构造器之前
 12. 初始化步骤：静态成员-->成员变量-->静态方法
 13. 可边参数
+```
+static void printArray(Object... args)
+```
+
 
 
 
