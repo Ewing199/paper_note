@@ -59,4 +59,4 @@ static void printArray(Object... args)
 5. public：接口访问权限，该成员对每个人通用，
 6. private：除了该成员对类其他类都无妨访问到该成员
 7. protected：继承访问权限，提供包访问和派生类访问权限
-8. 访问权限控制：接口
+8. 访问权限控制：接口与实现到分离
