@@ -53,4 +53,4 @@ static void printArray(Object... args)
 14. enum：toString()显示实例方法、ordinal()声明常量的顺序、static value()设定值
 ## 第六章.访问权限控制
 1. 一个包内存在一个public class，其余为该class提供支持
-2. 代码```package access```
+2. 代码```package access```指定该文件是access类库的一部分，
