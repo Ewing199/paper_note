@@ -60,4 +60,4 @@ static void printArray(Object... args)
 6. private：除了该成员对类其他类都无妨访问到该成员
 7. protected：继承访问权限，提供包访问和派生类访问权限
 8. 访问权限控制：接口与实现到分离
-9. 类只能是public或包访问权限：不想被访问：所有构造器为private
+9. 类只能是public或包访问权限：不想被访问：所有构造器为private，但可以通过类中都静态方法访问该构造器
