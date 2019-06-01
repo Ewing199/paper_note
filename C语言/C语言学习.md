@@ -60,6 +60,8 @@ graph LR
 
 访问空指针错误
 
+5. 运算符优先级
+	![title](https://raw.githubusercontent.com/Ewing199/gitnote_image/master/gitnote/2019/05/31/20180311110229143-1559233282554.png)
 ## 四. 参数传递
 ## 五. 字节对齐
 在结构体里，CPU为了使编译器更高效会强制进行字节对齐操作，
