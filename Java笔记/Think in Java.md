@@ -54,4 +54,5 @@ static void printArray(Object... args)
 ## 第六章.访问权限控制
 1. 一个包内存在一个public class，其余为该class提供支持
 2. 代码```package access```指定该文件是access类库的一部分，需要通过全名或者结合关键字import使用
-1. package命名方式：第一，类的创建者的反Internet域名；第二，分解成极其上的目录的名称
+3. package命名方式：第一，类的创建者的反Internet域名；第二，分解成极其上的目录的名称
+4. 不加权限修饰词，默认为包访问权限，
