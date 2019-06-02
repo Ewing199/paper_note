@@ -64,5 +64,6 @@ static void printArray(Object... args)
 ## 第七章.复用类
 1. 组合：一个类中调用另一个类的对象
 2. 调用super可以调用基类都方法
+3. java在子类都构造器中会插入
 
 
