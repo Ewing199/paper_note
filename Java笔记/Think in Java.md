@@ -63,6 +63,6 @@ static void printArray(Object... args)
 9. 类只能是public或包访问权限：不想被访问：所有构造器为private，但可以通过类中都静态方法访问该构造器
 ## 第七章.复用类
 1. 组合：一个类中调用另一个类的对象
-2. 调用super
+2. 调用super可以调用基类都方法
 
 
