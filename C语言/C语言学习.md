@@ -77,6 +77,7 @@ graph LR
 4.C PRIMER PLUS
 
 # 六. 内存四区
+![title](https://i.loli.net/2019/06/05/5cf76f4d0b7a649869.png)
 代码被load到内存，分成四个区，操作系统刚找到main函数入口执行
 ## 1.栈区
 编译器自动分配释放，存放函数参数值，局部变量
