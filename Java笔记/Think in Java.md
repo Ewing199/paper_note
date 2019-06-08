@@ -69,4 +69,4 @@ static void printArray(Object... args)
 5. 向上转型：由子类变成基类，专用类型向通用类型转型，
 6. final定义后为常量，不可更改；定义final不给初值，每个对象赋值后，该值恒定不变
 7. final方法：锁定方法防止继承类修改其定义；编译器调用转换为内嵌，提升效率。private隐式指定为final。final类无子类
-8. java初始化：
+8. java初始化：static先加载，其余在调用加载
