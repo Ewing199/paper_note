@@ -73,4 +73,4 @@ static void printArray(Object... args)
 9.
 
 ## 第八章.多态
-
+将接口和实现分离
