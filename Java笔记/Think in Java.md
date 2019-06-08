@@ -72,4 +72,5 @@ static void printArray(Object... args)
 8. java初始化：static先加载，其余在调用加载；先加载父类（基类）
 9.
 
-# 第八章
+## 第八章.多态
+
