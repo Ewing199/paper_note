@@ -76,7 +76,7 @@ static void printArray(Object... args)
 将接口和实现分离，消除类型之间都耦合关系
 1.java中方法调用为后期绑定（动态绑定），运行时根据对象的类型绑定，除了static和final方法
 2.无法覆盖基类中的private方法
-3.
+3.只有普通方法才是
 
 
 
