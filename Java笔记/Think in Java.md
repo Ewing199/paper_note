@@ -74,3 +74,4 @@ static void printArray(Object... args)
 
 ## 第八章.多态
 将接口和实现分离，消除类型之间都耦合关系
+1.java中方法调用为后期绑定，除了static和final方法
