@@ -77,7 +77,7 @@ static void printArray(Object... args)
 1.java中方法调用为后期绑定（动态绑定），运行时根据对象的类型绑定，除了static和final方法
 2.无法覆盖基类中的private方法
 3.只有普通方法才是多态的，直接访问的域和静态方法在编译器就会进行解析，不具备多态性
-4.
+4. 
 
 
 
